@@ -4,7 +4,7 @@
 
 This project implements an image steganography system using deep learning techniques, specifically convolutional neural networks (CNNs). The goal of steganography is to embed a secret image inside a cover image in a way that the output (stego image) is visually indistinguishable from the original, yet can later be decoded to reveal the hidden content.
 
-##‌Key Features:
+## Key Features:
 
 End-to-End Steganography Pipeline: Includes both the encoder (for embedding) and decoder (for revealing) networks.
 
